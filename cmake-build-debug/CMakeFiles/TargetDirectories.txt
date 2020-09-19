@@ -1,3 +1,0 @@
-/home/reptar/Documents/Comp-Sys/Module 1/CS4541-MacallisterArmstrong-Assignment-1-Number-Demonstrations/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/reptar/Documents/Comp-Sys/Module 1/CS4541-MacallisterArmstrong-Assignment-1-Number-Demonstrations/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/reptar/Documents/Comp-Sys/Module 1/CS4541-MacallisterArmstrong-Assignment-1-Number-Demonstrations/cmake-build-debug/CMakeFiles/CS4541_MacallisterArmstrong_Assignment_1_Number_Demonstrations.dir
